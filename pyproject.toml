@@ -5,5 +5,15 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "circuitsvis>=1.43.3",
+    "eindex-callum>=0.1.2",
+    "einops>=0.8.2",
     "ipykernel>=7.2.0",
+    "ipython>=9.13.0",
+    "jaxtyping>=0.3.9",
+    "jupyter>=1.1.1",
+    "numpy>=2.4.4",
+    "plotly>=6.7.0",
+    "torch>=2.12.0",
+    "transformer-lens>=3.2.1",
 ]
