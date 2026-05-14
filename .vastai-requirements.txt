@@ -1,0 +1,10 @@
+circuitsvis
+eindex-callum
+einops
+ipykernel
+ipython
+jaxtyping
+jupyterlab
+numpy
+plotly
+transformer-lens
