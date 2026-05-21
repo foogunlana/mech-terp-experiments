@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "runpodctl": {
+      "source": "runpod/skills",
+      "sourceType": "github",
+      "skillPath": "runpodctl/SKILL.md",
+      "computedHash": "fd7a47f981eefecfc7d96f80856074aae382e49cbe611a6fad4eee8ef3bed5c4"
+    }
+  }
+}

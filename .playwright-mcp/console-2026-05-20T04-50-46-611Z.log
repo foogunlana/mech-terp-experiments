@@ -1,0 +1,3 @@
+[    1122ms] [WARNING] Deprecation warning: use moment.updateLocale(localeName, config) to change an existing locale. moment.defineLocale(localeName, config) should only be used for creating a new locale See http://momentjs.com/guides/#/warnings/define-locale/ for more info. @ https://cdn.miniextensions.com/05dcfe95db5/_next/static/chunks/0sc5wrudu_ngx.js:0
+[    1242ms] [ERROR] Refused to set unsafe header "user-agent" @ https://cdn.miniextensions.com/05dcfe95db5/_next/static/chunks/10n9~gnqctza..js:0
+[    1582ms] [ERROR] Refused to set unsafe header "user-agent" @ https://cdn.miniextensions.com/05dcfe95db5/_next/static/chunks/10n9~gnqctza..js:0
