@@ -1,6 +1,6 @@
-Pattern matching
-- First, find evidence of pattern matching in GPT2 - A type of in-context learning
-- Experiment with attributing this pattern matching capability with specific attention heads and circuits
-- Then, figure out how to remove this ability to pattern match
+Pattern following
+- First, find evidence of pattern following in GPT2 - A type of in-context learning
+- Experiment with attributing this pattern following capability with specific attention heads and circuits
+- Then, figure out how to remove this ability to pattern follow
 - Then, find similar work online
 - Then form a hypothesis, write it up and stop
