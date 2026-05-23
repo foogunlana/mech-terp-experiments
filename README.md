@@ -4,7 +4,7 @@ Working through [ARENA](https://learn.arena.education/) while investigating atte
 
 Current exploration: understanding how transformers recognise and continue sequences by tracing activation circuits through attention heads — identifying which heads drive pattern detection (induction heads) vs. token retrieval (previous token heads), and how these compose across layers.
 
-## Papers
+## Relevant reading
 
 - [Towards Interpretable Sequence Continuation: Analyzing Shared Circuits in Large Language Models](https://aclanthology.org/2024.emnlp-main.699.pdf) — Lan, Torr, Barez (EMNLP 2024)
 - [Successor Heads: Recurring, Interpretable Attention Heads In The Wild](https://arxiv.org/abs/2312.09230) — Gould, Ong, Ogden, Conmy
