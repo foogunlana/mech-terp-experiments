@@ -1,0 +1,3 @@
+- CLIP paper - multi-modal interpretability - https://arxiv.org/pdf/2310.05916 with summary here: https://yossigandelsman.github.io/clip_decomposition/index.html?ref=soniajoseph.ai
+- Greater than in gpt2 - https://arxiv.org/pdf/2305.00586
+- Tuned lens paper - https://arxiv.org/pdf/2303.08112
